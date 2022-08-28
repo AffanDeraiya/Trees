@@ -1,5 +1,5 @@
 bool areIdentical(TreeNode<int> *root1, TreeNode<int> * root2) {
-    // Write your code here
+    
     if(root1 == NULL && root2 == NULL){
         return true;
     }
